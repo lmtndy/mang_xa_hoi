@@ -1,5 +1,8 @@
-học thống kê: econometrics Poland
+học thống kê: 	econometrics Poland
 
-kho dữ liệu:  http://snap.stanford.edu/data
+kho dữ liệu:  	http://snap.stanford.edu/data
+		
 
-công cụ: networkrepository.com
+công cụ: 	networkrepository.com
+
+ve do thi co ban so sanh chi so 
